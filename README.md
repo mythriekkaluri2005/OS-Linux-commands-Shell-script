@@ -542,6 +542,10 @@ echo 'echo Hello World‘; exit 0 >> my-script.sh
 chmod 755 my-script.sh
 ./my-script.sh
 ## OUTPUT
+```
+#!/bin/sh
+Hello World
+```
 cat << stop > herecheck.txt
 ```
 hello in this world
@@ -594,6 +598,7 @@ chmod 777 scriptest.sh
 ./scriptest.sh 1 2 3
 
 ## OUTPUT
+
 ls file1
 ## OUTPUT
 echo $?
