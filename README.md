@@ -21,6 +21,12 @@ Execute the following commands
 Testing the commands for the desired output. 
 
 # COMMANDS:
+
+```
+DEVELOPED BY : EKKALURI MYTHRI
+REGISTRATION NUMBER : 212223240034
+```
+
 ### Create the following files file1, file2 as follows:
 cat > file1
 ```
